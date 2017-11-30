@@ -1,4 +1,4 @@
- [![GitHub release](https://img.shields.io/github/release/mdihos/jlayer.svg)](https://github.com/mdihos/jlayer)
+ [![GitHub release](https://img.shields.io/github/release/mdihos/jlayer.svg)](https://github.com/mdihos/jlayer/releases)
  </br>JavaZOOM 1999-2008
 
  Project Homepage :
