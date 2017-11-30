@@ -1,6 +1,6 @@
  [![GitHub release](https://img.shields.io/github/release/mdihos/jlayer.svg)](https://github.com/mdihos/jlayer/releases)
  
-## </br>JavaZOOM 1999-2008
+ # </br>JavaZOOM 1999-2008
 
  ### [Project Homepage](http://www.javazoom.net/javalayer/javalayer.html)
  ### [JAVA and MP3 online Forums](http://www.javazoom.net/services/forums/index.jsp)
