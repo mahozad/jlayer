@@ -1,5 +1,5 @@
- [![GitHub release](https://img.shields.io/github/release/mdihos/espot.svg)](https://github.com/mdihos/espot)
- JavaZOOM 1999-2008
+ [![GitHub release](https://img.shields.io/github/release/mdihos/jlayer.svg)](https://github.com/mdihos/jlayer)
+ </br>JavaZOOM 1999-2008
 
  Project Homepage :
    http://www.javazoom.net/javalayer/javalayer.html 
