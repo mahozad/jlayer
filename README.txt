@@ -1,4 +1,4 @@
- JLayer 1.0.1
+ [![GitHub release](https://img.shields.io/github/release/mdihos/jlayer.svg)](https://github.com/mdihos/jlayer)
  JavaZOOM 1999-2008
 
  Project Homepage :
