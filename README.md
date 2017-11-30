@@ -2,10 +2,8 @@
  
  </br>JavaZOOM 1999-2008
 
- [Project Homepage](http://www.javazoom.net/javalayer/javalayer.html)
-
- [JAVA and MP3 online Forums](http://www.javazoom.net/services/forums/index.jsp)
------------------------------------------------------
+ ## [Project Homepage](http://www.javazoom.net/javalayer/javalayer.html)
+ ### [JAVA and MP3 online Forums](http://www.javazoom.net/services/forums/index.jsp)
 
 DESCRIPTION :
 -----------
