@@ -12,7 +12,7 @@
  ## DESCRIPTION
 JLayer is a library that decodes/plays/converts MPEG 1/2/2.5 Layer 1/2/3
 (i.e. MP3) in real time for the JAVA(tm) platform. This is a non-commercial project 
-and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE.txt).
+and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE).
 
 
  ## FAQ
@@ -33,7 +33,7 @@ and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE.
   </br>java javazoom.jl.player.jlp localfile.mp3
    or
   java javazoom.jl.player.jlp -url http://www.aserver.com/remotefile.mp3
-  Note : MP3 simple player only works under JVM that supports JavaSound 1.0 (i.e JDK1.3.x+)
+  </br>Note : MP3 simple player only works under JVM that supports JavaSound 1.0 (i.e JDK1.3.x+)
 
 - How to run the advanced (threaded) MP3 player?
   </br>java javazoom.jl.player.advanced.jlap localfile.mp3
@@ -60,11 +60,11 @@ and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE.
   </br>Here are our benchmark notes :
     - Heap use range : 1380KB to 1900KB - 370 classes loaded. 
     - Footprint : ~8MB under WinNT4/Win2K + J2SE 1.3 (Hotspot).
-                  ~10MB under WinNT4/Win2K + J2SE 1.4.1 (Hotspot).
+                  </br>~10MB under WinNT4/Win2K + J2SE 1.4.1 (Hotspot).
     - CPU usage : ~12% under PIII 800Mhz/WinNT4+J2SE 1.3 (Hotspot).
-                  ~8% under PIII 1Ghz/Win2K+J2SE 1.3.1 (Hotspot).
-                  ~12% under PIII 1Ghz/Win2K+J2SE 1.4.1 (Hotspot).
-                  ~1% under PIII 1Ghz/Win2K+J2SE 1.5.0 (Hotspot).
+                  </br>~8% under PIII 1Ghz/Win2K+J2SE 1.3.1 (Hotspot).
+                  </br>~12% under PIII 1Ghz/Win2K+J2SE 1.4.1 (Hotspot).
+                  </br>~1% under PIII 1Ghz/Win2K+J2SE 1.5.0 (Hotspot).
 
 - How to contact JLayer developers?
   </br>Try to post a thread on Java&MP3 online forums at :
