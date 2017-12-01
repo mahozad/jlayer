@@ -1,4 +1,6 @@
  [![GitHub release](https://img.shields.io/github/release/mdihos/jlayer.svg)](https://github.com/mdihos/jlayer/releases)
+ [![GitHub top language](https://img.shields.io/github/languages/top/mdihos/jlayer.svg)]()
+ [![Codacy Badge](https://api.codacy.com/project/badge/Grade/61f2c09a2a3e49b59e863755076e9024)](https://www.codacy.com/app/mdihos/jlayer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mdihos/jlayer&amp;utm_campaign=Badge_Grade)
  [![GitHub last commit](https://img.shields.io/github/last-commit/mdihos/jlayer.svg)]()
  [![license](https://img.shields.io/github/license/mdihos/jlayer.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
  
