@@ -1,4 +1,5 @@
  [![GitHub release](https://img.shields.io/github/release/mdihos/jlayer.svg)](https://github.com/mdihos/jlayer/releases)
+ [![Scrutinizer](https://img.shields.io/scrutinizer/g/mdihos/jlayer.svg)](https://scrutinizer-ci.com/g/mdihos/jlayer/)
  [![license](https://img.shields.io/github/license/mdihos/jlayer.svg)]()
  
  # JavaZOOM 1999-2008
