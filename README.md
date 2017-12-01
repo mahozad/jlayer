@@ -1,5 +1,4 @@
  [![GitHub release](https://img.shields.io/github/release/mdihos/jlayer.svg)](https://github.com/mdihos/jlayer/releases)
- [![Scrutinizer](https://img.shields.io/scrutinizer/g/mdihos/jlayer.svg)](https://scrutinizer-ci.com/g/mdihos/jlayer/)
  [![license](https://img.shields.io/github/license/mdihos/jlayer.svg)]()
  
  # JavaZOOM 1999-2008
@@ -26,7 +25,7 @@ and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE)
   (i.e. JVM1.3 or higher).
 
 - How to run the MP3TOWAV converter?
-      `java javazoom.jl.converter.jlc -v -p output.wav yourfile.mp3`
+  </br>`java javazoom.jl.converter.jlc -v -p output.wav yourfile.mp3`
   </br>(Note : MP3TOWAV converter should work under jdk1.1.x or higher)
 
 - How to run the simple MP3 player?
