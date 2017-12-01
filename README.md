@@ -58,13 +58,15 @@ and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE)
 
 - How much memory/CPU JLayer needs to run?
   </br>Here are our benchmark notes:
-    - Heap use range : 1380KB to 1900KB - 370 classes loaded. 
-    - Footprint : ~8MB under WinNT4/Win2K + J2SE 1.3 (Hotspot).
-                  </br>~10MB under WinNT4/Win2K + J2SE 1.4.1 (Hotspot).
-    - CPU usage : ~12% under PIII 800Mhz/WinNT4+J2SE 1.3 (Hotspot).
-                  </br>                ~8% under PIII 1Ghz/Win2K+J2SE 1.3.1 (Hotspot).
-                  </br>                ~12% under PIII 1Ghz/Win2K+J2SE 1.4.1 (Hotspot).
-                  </br>                ~1% under PIII 1Ghz/Win2K+J2SE 1.5.0 (Hotspot).
+    - Heap use range: 1380KB to 1900KB - 370 classes loaded. 
+    - Footprint:
+    </br>~8MB under WinNT4/Win2K + J2SE 1.3 (Hotspot).
+    </br>~10MB under WinNT4/Win2K + J2SE 1.4.1 (Hotspot).
+    - CPU usage: 
+    </br>~12% under PIII 800Mhz/WinNT4+J2SE 1.3 (Hotspot).
+    </br>~8% under PIII 1Ghz/Win2K+J2SE 1.3.1 (Hotspot).
+    </br>~12% under PIII 1Ghz/Win2K+J2SE 1.4.1 (Hotspot).
+    </br>~1% under PIII 1Ghz/Win2K+J2SE 1.5.0 (Hotspot).
 
 - How to contact JLayer developers?
   </br>Try to post a thread on Java&MP3 online forums at:
@@ -76,5 +78,5 @@ and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE)
 
 99% of MP3 plays well with JLayer but some (1%) return an ArrayIndexOutOfBoundsException 
 while playing. It might come from invalid audio frames. 
-</br>Workaround : Just try/catch ArrayIndexOutOfBoundsException in your code to skip 
+</br>Workaround: Just try/catch ArrayIndexOutOfBoundsException in your code to skip 
              non-detected invalid frames.
