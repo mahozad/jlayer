@@ -27,21 +27,21 @@ and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE)
 
 - How to run the MP3TOWAV converter?
   </br>java javazoom.jl.converter.jlc -v -p output.wav yourfile.mp3
-  (Note : MP3TOWAV converter should work under jdk1.1.x or higher)
+  </br>(Note : MP3TOWAV converter should work under jdk1.1.x or higher)
 
 - How to run the simple MP3 player?
   </br>java javazoom.jl.player.jlp localfile.mp3
-   or
-  java javazoom.jl.player.jlp -url http://www.aserver.com/remotefile.mp3
+  </br> or
+  </br>java javazoom.jl.player.jlp -url http://www.aserver.com/remotefile.mp3
   </br>Note : MP3 simple player only works under JVM that supports JavaSound 1.0 (i.e JDK1.3.x+)
 
 - How to run the advanced (threaded) MP3 player?
   </br>java javazoom.jl.player.advanced.jlap localfile.mp3
 
 - Does simple MP3 player support streaming?
-  </br>Yes, use the following command to play music from stream :
-  java javazoom.jl.player.jlp -url http://www.shoutcastserver.com:8000
-  (If JLayer returns without playing SHOUTcast stream then it might mean 
+  </br>Yes, use the following command to play music from stream:
+  </br>java javazoom.jl.player.jlp -url http://www.shoutcastserver.com:8000
+  </br>(If JLayer returns without playing SHOUTcast stream then it might mean 
    that the server expect a winamp like "User-Agent" in HTTP request).
 
 - Does JLayer support MPEG 2.5?
@@ -57,24 +57,24 @@ and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE)
   </br>See javazoom.jl.player.advanced.jlap source to learn how to skip frames.
 
 - How much memory/CPU JLayer needs to run?
-  </br>Here are our benchmark notes :
+  </br>Here are our benchmark notes:
     - Heap use range : 1380KB to 1900KB - 370 classes loaded. 
     - Footprint : ~8MB under WinNT4/Win2K + J2SE 1.3 (Hotspot).
                   </br>~10MB under WinNT4/Win2K + J2SE 1.4.1 (Hotspot).
     - CPU usage : ~12% under PIII 800Mhz/WinNT4+J2SE 1.3 (Hotspot).
-                  </br>~8% under PIII 1Ghz/Win2K+J2SE 1.3.1 (Hotspot).
-                  </br>~12% under PIII 1Ghz/Win2K+J2SE 1.4.1 (Hotspot).
-                  </br>~1% under PIII 1Ghz/Win2K+J2SE 1.5.0 (Hotspot).
+                  </br>                ~8% under PIII 1Ghz/Win2K+J2SE 1.3.1 (Hotspot).
+                  </br>                ~12% under PIII 1Ghz/Win2K+J2SE 1.4.1 (Hotspot).
+                  </br>                ~1% under PIII 1Ghz/Win2K+J2SE 1.5.0 (Hotspot).
 
 - How to contact JLayer developers?
-  </br>Try to post a thread on Java&MP3 online forums at :
-  http://www.javazoom.net/services/forums/index.jsp
-  You can also contact us at jlayer@javazoom.net for contributions.
+  </br>Try to post a thread on Java&MP3 online forums at:
+  </br>http://www.javazoom.net/services/forums/index.jsp
+  </br>You can also contact us at jlayer@javazoom.net for contributions.
  
 
 ## KNOWN PROBLEMS
 
 99% of MP3 plays well with JLayer but some (1%) return an ArrayIndexOutOfBoundsException 
 while playing. It might come from invalid audio frames. 
-Workaround : Just try/catch ArrayIndexOutOfBoundsException in your code to skip 
+</br>Workaround : Just try/catch ArrayIndexOutOfBoundsException in your code to skip 
              non-detected invalid frames.
