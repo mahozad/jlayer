@@ -1,5 +1,6 @@
  [![GitHub release](https://img.shields.io/github/release/mdihos/jlayer.svg)](https://github.com/mdihos/jlayer/releases)
- [![license](https://img.shields.io/github/license/mdihos/jlayer.svg)]()
+ [![GitHub last commit](https://img.shields.io/github/last-commit/mdihos/jlayer.svg)]()
+ [![license](https://img.shields.io/github/license/mdihos/jlayer.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
  
  # JavaZOOM 1999-2008
 
