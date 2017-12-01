@@ -26,21 +26,21 @@ and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE)
   (i.e. JVM1.3 or higher).
 
 - How to run the MP3TOWAV converter?
-  </br>java javazoom.jl.converter.jlc -v -p output.wav yourfile.mp3
+  </br>`java javazoom.jl.converter.jlc -v -p output.wav yourfile.mp3`
   </br>(Note : MP3TOWAV converter should work under jdk1.1.x or higher)
 
 - How to run the simple MP3 player?
-  </br>java javazoom.jl.player.jlp localfile.mp3
+  </br>`java javazoom.jl.player.jlp localfile.mp3`
   </br> or
-  </br>java javazoom.jl.player.jlp -url http://www.aserver.com/remotefile.mp3
+  </br>`java javazoom.jl.player.jlp -url http://www.aserver.com/remotefile.mp3`
   </br>Note : MP3 simple player only works under JVM that supports JavaSound 1.0 (i.e JDK1.3.x+)
 
 - How to run the advanced (threaded) MP3 player?
-  </br>java javazoom.jl.player.advanced.jlap localfile.mp3
+  </br>`java javazoom.jl.player.advanced.jlap localfile.mp3`
 
 - Does simple MP3 player support streaming?
   </br>Yes, use the following command to play music from stream:
-  </br>java javazoom.jl.player.jlp -url http://www.shoutcastserver.com:8000
+  </br>`java javazoom.jl.player.jlp -url http://www.shoutcastserver.com:8000`
   </br>(If JLayer returns without playing SHOUTcast stream then it might mean 
    that the server expect a winamp like "User-Agent" in HTTP request).
 
@@ -58,7 +58,8 @@ and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE)
 
 - How much memory/CPU JLayer needs to run?
   </br>Here are our benchmark notes:
-    - Heap use range: 1380KB to 1900KB - 370 classes loaded. 
+    - Heap use range:
+    </br>1380KB to 1900KB - 370 classes loaded. 
     - Footprint:
     </br>~8MB under WinNT4/Win2K + J2SE 1.3 (Hotspot).
     </br>~10MB under WinNT4/Win2K + J2SE 1.4.1 (Hotspot).
