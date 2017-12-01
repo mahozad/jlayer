@@ -6,6 +6,7 @@
  
  [JAVA and MP3 online Forums](http://www.javazoom.net/services/forums/index.jsp)
 
+
  ## DESCRIPTION
 JLayer is a library that decodes/plays/converts MPEG 1/2/2.5 Layer 1/2/3
 (i.e. MP3) in real time for the JAVA(tm) platform. This is a non-commercial project 
@@ -14,7 +15,8 @@ and anyone can add his contribution. JLayer is licensed under LGPL (see LICENSE.
 
  ## FAQ
 
-- How to install JLayer ?
+- How to install JLayer?
+  
   Before running JLayer you must set PATH and CLASSPATH for JAVA
   and you must add jl1.0.1.jar to the CLASSPATH.
 
